@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@angular/common": "^10.0.9",
-    "@angular/core": "^10.0.8",
+    "@angular/core": "^10.0.9",
     "@dagonmetric/ng-log": "^2.2.6",
     "@dagonmetric/ng-log-applicationinsights": "^2.4.1",
     "@dagonmetric/ng-log-facebook-analytics": "^1.0.3",
