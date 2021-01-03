@@ -9,7 +9,7 @@
     "@angular/common": "^11.0.5",
     "@angular/core": "^11.0.5",
     "@dagonmetric/ng-log": "^2.3.3",
-    "@dagonmetric/ng-log-applicationinsights": "^2.5.1",
+    "@dagonmetric/ng-log-applicationinsights": "^2.5.2",
     "@dagonmetric/ng-log-facebook-analytics": "^1.1.2",
     "@dagonmetric/ng-log-firebase-analytics": "^2.1.2",
     "@dagonmetric/ng-log-gtag": "^2.3.1",
